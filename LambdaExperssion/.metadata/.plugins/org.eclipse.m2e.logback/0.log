@@ -1,0 +1,3 @@
+2025-07-21 02:38:09,156 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-07-21 02:40:44,435 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-07-21 02:40:51,838 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.projec:employee:0.0.1-SNAPSHOT @ C:\Users\name\Documents\workspace-spring-tools-for-eclipse-4.31.0.RELEASE\employee\pom.xml.

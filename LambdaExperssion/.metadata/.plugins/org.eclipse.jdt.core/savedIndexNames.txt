@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\name\Documents\Coding\LambdaExperssion\.metadata\.plugins\org.eclipse.jdt.core
+702177439.index
+1255279620.index
+1865797976.index
